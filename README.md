@@ -1,4 +1,8 @@
 # HR Analytics Dashboard (Excel)
+## 📸 Dashboard Preview
+
+![HR Dashboard](DASHBOARD_Overview.png)
+
 
 An interactive **HR Analytics Dashboard** built using Microsoft Excel with dynamic KPIs, slicers, and visually compelling charts.  
 This dashboard helps HR teams analyze **employee attrition, performance, salary distribution, demographics, and tenure trends** effectively.
